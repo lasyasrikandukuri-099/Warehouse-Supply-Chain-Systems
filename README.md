@@ -474,10 +474,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Ahmed Osama**
-- GitHub: [@RealAhmedOsama](https://github.com/RealAhmedOsama)
-- LinkedIn: [Ahmed Osama](https://www.linkedin.com/in/realahmedosama/)
-- Email: Contact via GitHub
+**Lasyasri**
+
 
 ## 🙏 Acknowledgments
 
